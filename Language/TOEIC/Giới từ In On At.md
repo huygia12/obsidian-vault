@@ -1,0 +1,50 @@
+---
+created: 2024-02-25T10:31
+updated: 2024-01-23T09:23
+---
+![81GGER 
+ΟΝ ](Exported%20image%2020240225103109-0.png)
+
+- In (sử dụng chung chung nhất) : Dùng cho khoảng thời gian dài : THẾ KỈ(CENTURIES)
+- On (Hẹp hơn) : NGÀY TRONG THÁNG(DATES)
+- At (Hẹp nhất) : GIỜ(HOURS)
+
+THẬP KỈ(DECADES)
+
+NĂM(YEARS)
+
+THÁNG(MONTHS)
+
+TUẦN(WEEKS)
+
+CÁC BUỔI TRONG NGÀY
+
+MÙA TRONG NĂM
+
+DÙNG CHO MỘT ĐỊA ĐIỂM CỤ THỂ: IN HANOI
+
+DÙNG MỘT ĐỊA ĐIỂM : IN A HOTEL
+
+DÙNG CHO MÀU SẮC, KÍCH THƯỚC, HÌNH DÁNG: IN RED,
+
+DÙNG KHI TA ĐANG LÀM VIỆC GÌ : IN PREPARING FOR
+
+THỨ TRONG TUẦN(DAYS)
+
+NGÀY NGHỈ(HOLIDAYS) : ON CHRISTMASDAY....
+
+TRÊN BỀ MẶT CỦA ĐỒ VẬT: ON MY DESK
+
+CÓ LIÊN QUAN ĐẾN THIẾT BỊ: ON THE PHONE(ĐANG DÙNG ĐIỆN THOẠI)
+
+CÓ LIÊN QUAN ĐẾN BỘ PHẬN CƠ THỂ NGƯỜI: ON MY SHOULDER
+
+CHỈ MỘT TRẠNG THÁI CỦA VẬT: ON FIRE, ON
+
+THỜI ĐIỂM CHÍNH (PACIFIC) : AT LUNCH, AT MIDNIGHT
+
+NGÀY NGHỈ( HOLIDAYS WITHOUT "DAYS") : AT CHRISTMAS,…
+
+CHÍNH XÁC MỘT ĐỊA ĐIỂM(EMAIL) : AT TIM'S PARTY,
+
+ĐI VỚI MỘT SỐ ĐỘNG TÍNH TỪ : LAUGH AT, GOOD

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "9c72ab36897ec8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f1d6c552e7fd6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d397cc84756b669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Student forms management system.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Student forms management system"
+            }
+          },
+          {
+            "id": "3ccdf047d55be17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/日本語/N4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N4"
+            }
+          },
+          {
+            "id": "467445581cbb5608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/日本語/N5.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0836f520d0f53dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a11d8c0241abe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f051948bde012e89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57be7df668c4e035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5fb30d7342e350bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "9c4a513fb84ef7f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fede555e9950ee6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df6ba07a9253afd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Language/日本語/N3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for N3"
+            }
+          },
+          {
+            "id": "c9903179b8f8c27b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Language/日本語/N3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from N3"
+            }
+          },
+          {
+            "id": "2122dc056a8c554e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "693fe8042bb6109b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Other/Docker.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docker"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "5d397cc84756b669",
+  "lastOpenFiles": [
+    "Language/日本語/N3.md",
+    "Language/日本語/Nghi vấn từ.md",
+    "Language/日本語/Đọc hiểu.md",
+    "Language/日本語/N4.md",
+    "Language/日本語/N5.md",
+    "Programming/Java/SpringBoot/Chat-app project.md",
+    "Programming/Java/SpringBoot/Security.md",
+    "Programming/Java/SpringBoot/Open API.md",
+    "Programming/Java/SpringBoot/Layer & Model.md",
+    "Programming/Java/SpringBoot/JPA-Hibernate.md",
+    "Programming/Java/SpringBoot/IoC.md",
+    "Programming/Java/SpringBoot/Exception handling.md",
+    "Programming/Java/SpringBoot/DTO.md",
+    "Language/日本語/Số đếm.md",
+    "MarkDown Tutorial.md",
+    "Language/日本語/Từ loại trong tiếng Nhật.md",
+    "Language/日本語/日.md",
+    "Assets/Pasted image 20250608143842.png",
+    "Driver_Exercises.md",
+    "Programming/Other/Tmux.md",
+    "Programming/Other/Yml.md",
+    "Programming/Other/Docker.md",
+    "Programming/Other/Git.md",
+    "Assets/Pasted image 20250520130840.png",
+    "Assets/Pasted image 20250519094442.png",
+    "Programming/Web/Design Database.md",
+    "Programming/Web/Built-in Web's Components.md",
+    "Programming/Web/TCP-IP.md",
+    "Programming/Web/SSL-TLS.md",
+    "Assets/Pasted image 20250320214259.png",
+    "Assets/Pasted image 20250320180204.png",
+    "Assets/Pasted image 20250320180058.png",
+    "Assets/Screenshot from 2025-03-17 21-45-39.png",
+    "Assets/Screenshot from 2025-03-17 21-21-13.png",
+    "Academy lecture/An toàn - Bảo mật thông tin/assets/Screenshot from 2025-03-17 21-21-13.png",
+    "Academy lecture/An toàn - Bảo mật thông tin/assets",
+    "Academy lecture/An toàn - Bảo mật thông tin/assets/Screenshot from 2025-03-17 21-48-47.png",
+    "Academy lecture/An toàn - Bảo mật thông tin/attachments",
+    "Academy lecture/An toàn - Bảo mật thông tin/Assets",
+    "Programming/Assets",
+    "Academy lecture/An toàn - Bảo mật thông tin/Assets",
+    "Academy lecture/An toàn - Bảo mật thông tin",
+    "Programming/Other/Assets/Main.java",
+    "Programming/Other/Assets",
+    "Programming/AI",
+    "Academy lecture/PM",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
